@@ -1,1 +1,1 @@
-[Deploy Test](https://lorenzo-x64.github.io/)
+[Deploy Test](https://Tux-x64.github.io/)
