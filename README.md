@@ -1,1 +1,1 @@
-[Deploy Test](https://Tux-x64.github.io/)
+https://tux-x64.github.io/Project-Snow-Gallery/
